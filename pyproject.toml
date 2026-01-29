@@ -3,7 +3,7 @@ name = "lpc-engine"
 version = "0.1.0"
 description = "Life-Pressure-Consumption simulation engine"
 authors = [
-  { name = "Aroom Diaz", email = "tu_email_aqui" }
+  { name = "Aroom Diaz", email = "diazneyraaroom@gmail.com" }
 ]
 license = { text = "MIT" }
 readme = "README.md"
