@@ -1,0 +1,14 @@
+[project]
+name = "lpc-engine"
+version = "0.1.0"
+description = "Life-Pressure-Consumption simulation engine"
+authors = [
+  { name = "Aroom Diaz", email = "tu_email_aqui" }
+]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.9"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
