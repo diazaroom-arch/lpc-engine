@@ -22,9 +22,9 @@ PRESETS = {
         }
     },
 
-    # -----------------------------------------
-    # PRESET SALUD + FINANZAS (CLÍNICA PRIVADA)
-    # -----------------------------------------
+    # ---------------------------
+    # PRESET SALUD + FINANZAS 
+    # ---------------------------
     "HEALTH_FINANCE": {
         "metrics": {
             "energy": "liquidez",

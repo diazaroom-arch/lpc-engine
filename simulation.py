@@ -47,7 +47,7 @@ class LPCSimulation:
 
             self.population.reproduce()
 
-            print("📊 METRICS", metrics)
+            print("METRICS", metrics)
 
             if visualizer:
                 visualizer.render_cycle(cycle, cycle_snapshots, self.world.state)

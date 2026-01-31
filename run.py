@@ -17,5 +17,5 @@ if __name__ == "__main__":
         max_cycles=24
     )
 
-    # 👇 El visualizador se inyecta en la simulación
+
     sim.run(visualizer=visualizer)
